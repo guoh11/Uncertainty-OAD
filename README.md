@@ -3,7 +3,7 @@
 ## Introduction
 Code of our ECCV2022 paper "Uncertainty-Based Spatial-Temporal Attention for Online Action Detection"
 
-![Framework](https://github.com/guoh11/Uncertainty-OAD-Pre/blob/main/f2-framework.png)
+![Framework](https://github.com/guoh11/Uncertainty-OAD/blob/main/f2-framework.png)
 
 ## Datasets and Preparation
 * THUMOS14 [[Link](http://crcv.ucf.edu/THUMOS14/download.html)]
