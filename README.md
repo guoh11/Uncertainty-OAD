@@ -36,5 +36,12 @@ We use the code from these repos for the baseline methods:
 ## Citations
 Please cite our paper if it helps your research:
 ```
-add BibTex here
+@inproceedings{guo2022uncertainty,
+  title={Uncertainty-Based Spatial-Temporal Attention for Online Action Detection},
+  author={Guo, Hongji and Ren, Zhou and Wu, Yi and Hua, Gang and Ji, Qiang},
+  booktitle={Computer Vision--ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23--27, 2022, Proceedings, Part IV},
+  pages={69--86},
+  year={2022},
+  organization={Springer}
+}
 ```
